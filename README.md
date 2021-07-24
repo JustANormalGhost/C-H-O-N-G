@@ -5,5 +5,5 @@
 
 <!---
 C-H-O-N-G/C-H-O-N-G is a not ✨ special ✨ repository because I haven't posted any thing XD. 
-Be prepared when I post a repository in Github!
+Be prepared and look for my repository when I post a repository in Github!
 --->
