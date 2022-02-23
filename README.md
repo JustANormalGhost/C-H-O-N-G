@@ -8,7 +8,7 @@
 ________________________________________________________________________________________________________________________________________________________________________________
 
 ## Ma dIsCoRd bOt:
-[![discord_bot]](./pic/commands.svg)(https://discord.com/oauth2/authorize?client_id=929979298260070481&scope=applications.commands%20bot&permissions=1099511627775)
+[<img align="left" alt="https://discord.com/oauth2/authorize?client_id=929979298260070481&scope=applications.commands%20bot&permissions=1099511627775" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/command.svg" />] [discord bot]
 
 ## CONN-E-C-T WITH mA:
 
