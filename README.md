@@ -7,10 +7,9 @@
 - 🎲 Currently coding in JavaScript and TypeScript, you may invite ma discord bot (Still in ze dev).
 ________________________________________________________________________________________________________________________________________________________________________________
 
-## Ma dIsCoRd bOt:
-[<img align="left" alt="discord.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/command.svg" />] [discord bot]
-
-## CONN-E-C-T WITH mA:
+### CONN-E-C-T WITH mA bOt:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <br />
 <br />
