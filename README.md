@@ -5,8 +5,7 @@
 - 🎲 Currently coding in JavaScript and TypeScript, you may invite my discord bot (Still in dev), getting ze link I gevven (given).
 ________________________________________________________________________________________________________________________________________________________________________________
 
-https://img.shields.io/badge/Powered%20by-C--H--O--N--G-orange
-
+**MY DISCORD AND DISCORD BOT LINK:**
 
 <!---
 C-H-O-N-G/C-H-O-N-G is a not ✨ special ✨ repository because I haven't posted any thing XD. 
