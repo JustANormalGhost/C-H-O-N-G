@@ -8,8 +8,7 @@
 ________________________________________________________________________________________________________________________________________________________________________________
 
 ### CONN-E-C-T WITH mA bOt:
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[<img align="left" alt="Ma Discord Bot" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/command.svg" />][Discord Bot]
 
 <br />
 <br />
