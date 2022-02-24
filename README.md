@@ -1,6 +1,6 @@
 # Felo there, I'm CKH_2009 (a.k.a C-H-O-N-G)
 
-## This is ma information
+### This is ma information
 - 👀 I’m interested in coding which is discord.js? Oh yeah
 - 🌱 I’m currently in my house :D 🤣
 - 📫 How to reach my heart? You maybe can but only with 0.0001%.
