@@ -8,7 +8,7 @@
 ________________________________________________________________________________________________________________________________________________________________________________
 
 ### CONN-E-C-T WITH mA bOt:
-[<img align="left" alt="Ma Discord Bot" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/command.svg" />][Discord Bot]
+[<img align="left" alt="Ma Discord Bot" width="26px" src="https://w7.pngwing.com/pngs/873/615/png-transparent-discord-internet-bot-computer-software-teamspeak-computer-servers-discord-icon-circle-online-chat-discord-electric-blue.png" />][Discord Bot]
 
 <br />
 <br />
