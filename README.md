@@ -8,7 +8,7 @@
 ________________________________________________________________________________________________________________________________________________________________________________
 
 ### CONN-E-C-T WITH mA bOt:
-[<img align="left" alt="Ma Discord Bot" width="26px" src="https://i.ibb.co/9N6xDzK/pngwing-com.png" />][Discord Bot]
+[<img align="left" alt="Ma Discord Bot" width="36px" src="https://i.ibb.co/9N6xDzK/pngwing-com.png" />][Discord Bot]
 
 <br />
 <br />
