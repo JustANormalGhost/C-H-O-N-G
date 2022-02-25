@@ -1,25 +1,18 @@
-# Felo there, I'm CKH_2009 (a.k.a C-H-O-N-G)
+# **Felo there, I'm CKH_2009 (a.k.a C-H-O-N-G )**
 
 ### This is ma information
 - 👀 I’m interested in coding which is discord.js? Oh yeah
 - 🌱 I’m currently in my house :D 🤣
 - 📫 How to reach my heart? You maybe can but only with 0.0001%.
 - 🎲 Currently coding in JavaScript and TypeScript, you may invite ma discord bot (Still in ze dev).
+
+<br />
+
+![Ma Github's Stats](https://github-readme-stats.vercel.app/api?username=C-H-O-N-G&show_icons=true&theme=algolia)
 ________________________________________________________________________________________________________________________________________________________________________________
 
 ### CONN-E-C-T WITH mA bOt:
 [<img align="left" alt="Ma Discord Bot" width="56px" src="https://i.ibb.co/9N6xDzK/pngwing-com.png" />][Discord Bot]
-
-<br />
-<br />
-<br />
-
-### GITHUB STATS:
-![Ma Github's Stats](https://github-readme-stats.vercel.app/api?username=C-H-O-N-G&show_icons=true&theme=algolia)
-
-
-### MY FIRST GITHUB REPOSITORY:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C-H-O-N-G&repo=Discord-TS-Bot)](https://github.com/C-H-O-N-G/Discord-TS-Bot)
 
 <br />
 <br />
