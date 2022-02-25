@@ -13,7 +13,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________________________________________
 
 ### Ma STaTS:
-![Ma Github's Stats](https://github-readme-stats.vercel.app/api?username=C-H-O-N-G&show_icons=true&theme=radical)
+![Ma Github's Stats](https://github-readme-stats.vercel.app/api?username=C-H-O-N-G&show_icons=true&theme=algolia)
 
 <br />
 <br />
