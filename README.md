@@ -8,11 +8,13 @@
 ________________________________________________________________________________________________________________________________________________________________________________
 
 ### CONN-E-C-T WITH mA bOt:
-[<img align="left" alt="Ma Discord Bot" width="36px" src="https://i.ibb.co/9N6xDzK/pngwing-com.png" />][Discord Bot]
-<br />
-________________________________________________________________________________________________________________________________________________________________________________
+[<img align="left" alt="Ma Discord Bot" width="56px" src="https://i.ibb.co/9N6xDzK/pngwing-com.png" />][Discord Bot]
 
-### Ma STaTS:
+<br />
+<br />
+<br />
+
+### GITHUB STATS:
 ![Ma Github's Stats](https://github-readme-stats.vercel.app/api?username=C-H-O-N-G&show_icons=true&theme=algolia)
 
 <br />
