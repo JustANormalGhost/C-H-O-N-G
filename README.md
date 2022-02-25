@@ -17,6 +17,10 @@ ________________________________________________________________________________
 ### GITHUB STATS:
 ![Ma Github's Stats](https://github-readme-stats.vercel.app/api?username=C-H-O-N-G&show_icons=true&theme=algolia)
 
+
+### MY FIRST GITHUB REPOSITORY:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C-H-O-N-G&repo=Discord-TS-Bot)](https://github.com/C-H-O-N-G/Discord-TS-Bot)
+
 <br />
 <br />
 
