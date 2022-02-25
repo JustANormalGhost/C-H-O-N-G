@@ -9,9 +9,10 @@ ________________________________________________________________________________
 
 ### CONN-E-C-T WITH mA bOt:
 [<img align="left" alt="Ma Discord Bot" width="36px" src="https://i.ibb.co/9N6xDzK/pngwing-com.png" />][Discord Bot]
+________________________________________________________________________________________________________________________________________________________________________________
 
 ### Ma STaTS:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Ma Github's Stats](https://github-readme-stats.vercel.app/api?username=C-H-O-N-G&show_icons=true&theme=radical)
 
 <br />
 <br />
