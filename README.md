@@ -19,7 +19,7 @@ ________________________________________________________________________________
 <br />
 <br />
 
-[Discord Bot]: https://discord.com/oauth2/authorize?client_id=929979298260070481&scope=applications.commands%20bot&permissions=1099511627775
+[Discord Bot]: https://discord.com/oauth2/authorize?client_id=1026817109545713694&scope=bot&permissions=1099511627775
 
 <!---
 C-H-O-N-G/C-H-O-N-G is a not ✨ special ✨ repository because I haven't posted any thing XD. 
