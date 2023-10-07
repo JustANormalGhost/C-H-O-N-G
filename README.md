@@ -4,7 +4,6 @@
 - 👀 I’m interested in coding which is discord.js? Oh yeah
 - 🌱 I’m currently in my house :D 🤣
 - 📫 How to reach my heart? You maybe can but only with 0.0001%.
-- 🎲 Currently coding in JavaScript and TypeScript, you may invite ma discord bot (Still in ze dev).
 
 
 
